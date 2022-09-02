@@ -1,4 +1,4 @@
-const clientId = 'enter your api-key here';
+const clientId = 'please enter your api-key here';
 let accessToken;
 
 const Spotify = {
